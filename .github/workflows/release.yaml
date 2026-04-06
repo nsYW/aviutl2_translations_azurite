@@ -1,0 +1,45 @@
+name: Release
+
+run-name: Release
+on:
+  push:
+    tags:
+      - "r*"
+
+env:
+  AUTHOR: azurite
+
+jobs:
+  release:
+    name: Release
+    runs-on: windows-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      with:
+        fetch-depth: 0
+
+    - name: Merge into a single language file
+      run: |
+        .\tools\merge.ps1 -input_dir ".\Translations\English" -output ".\out\English.${env:AUTHOR}.aul2"
+        .\tools\merge.ps1 -input_dir ".\Translations\简体中文" -output ".\out\简体中文.${env:AUTHOR}.aul2"
+
+    - name: Create zip file
+      run: |
+        Compress-Archive -Path ".\out\English.${env:AUTHOR}.aul2" -DestinationPath ".\out\${env:AUTHOR}_en_${env:VERSION}.zip" -Force
+        Compress-Archive -Path ".\out\简体中文.${env:AUTHOR}.aul2" -DestinationPath ".\out\${env:AUTHOR}_zh-Hans_${env:VERSION}.zip" -Force
+      env:
+        VERSION: ${{ github.ref_name }}
+
+    - name: Create release notes
+      run: |
+        gh release create "${env:VERSION}" --title "${env:VERSION}" --generate-notes
+        gh release upload "${env:VERSION}" ".\out\*_${env:VERSION}.zip"
+      env:
+        VERSION: ${{ github.ref_name }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

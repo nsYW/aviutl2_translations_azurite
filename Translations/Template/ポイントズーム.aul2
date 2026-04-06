@@ -1,0 +1,21 @@
+# Target: ポイントズーム (https://github.com/azurite581/AviUtl2-PointZoom)
+# Target Version: v2.0.0
+# Language: <Language Name>
+# Translator(s):
+#   <Name1>
+#   <Name2> (<Optional URL>)
+
+[ポイントズーム]
+ポイントズーム=Point Zoom
+ズーム=Zoom
+拡大率=Size
+補間なし=No Interpolation
+目標座標=Target coordinates
+領域外=Outside
+指定色=Specified color
+引き伸ばす=Stretch
+ループ=Loop
+ミラー=Mirror
+色=Color
+透明度=Transparency
+その他=Others

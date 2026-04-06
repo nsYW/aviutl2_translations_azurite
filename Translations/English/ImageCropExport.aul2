@@ -1,0 +1,59 @@
+# Target: ImageCropExport (https://github.com/azurite581/AviUtl2-ImageCropExport)
+# Target Version: v0.1.0
+# Language: English
+# Translator(s):
+#   azurite
+
+[ImageCropExport.auo2]
+プレビュー=Preview
+出力プレビュー=Output Preview
+倍率=Zoom
+幅=Width
+高さ=Height
+編集=Edit
+ハンドルを表示=Show Handles
+アルファクリッピング=Alpha Clipping
+アルファ閾値=Alpha Threshold
+クリッピング=Clipping
+上=Top
+下=Bottom
+左=Left
+右=Right
+シーンサイズに合わせる=Fit to Scene
+中断=Cancel
+クリップボードにコピー=Copy to Clipboard
+保存=Save
+出力サイズ=Output Size
+リサイズ=Resize
+リサイズモード=Resize Mode
+引き伸ばす=Stretch
+内接最大=Contain
+外接最小=Cover
+領域外=Border Type
+境界色=Clamp
+塗りつぶし=Fill
+ループ=Loop
+ミラー=Mirror
+バウンディングボックス=Bounding Box
+カスタム=Custom
+アスペクト比を維持=Keep Aspect Ratio
+設定=Settings
+バウンディングボックスの設定=Bounding Box Settings
+ハンドルサイズ=Handle Size
+ボーダーサイズ=Border Size
+アルファの設定=Alpha Settings
+アルファの形式=Alpha Format
+色の設定=Color Settings
+背景色=Background Color
+ボーダー=Border Color
+オーバーレイ=Overlay Color
+外側=Outline Color
+操作設定=Controls
+ズーム倍率=Zoom Factor
+最小倍率=Minimum Zoom
+最大倍率=Maximum Zoom
+クリップボードにコピー後にウィンドウを閉じる=Close Window After Copy
+リサイズ設定=Resize Settings
+補間アルゴリズム=Interpolation
+初期値に戻す=Restore Defaults
+設定を上書き=Save Settings

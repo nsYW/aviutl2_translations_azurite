@@ -1,0 +1,3 @@
+* text=auto
+
+*.aul2 text eol=lf linguist-language=ini working-tree-encoding=utf8

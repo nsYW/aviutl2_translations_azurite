@@ -1,0 +1,45 @@
+# Target: グラデーション+ (https://github.com/azurite581/AviUtl2-GradientPlus)
+# Target Version: v1.1.1
+# Language: English
+# Translator(s):
+#   azurite
+
+[グラデーション+]
+グラデーション+=Gradient Plus
+強さ=Intensity
+中心X=X Offset
+中心Y=Y Offset
+角度=Angle
+幅=Width
+合成モード=Blend Mode
+通常=Normal
+加算=Add
+減算=Subtract
+乗算=Multiply
+スクリーン=Screen
+オーバーレイ=Overlay
+比較(明)=Lighter
+比較(暗)=Darker
+輝度=Brightness
+色差=Chroma
+陰影=Shadow
+明暗=Light Dark
+差分=Difference
+形状=Shape
+線形=Linear
+円形=Circular
+矩形=Rectangular
+凸形=Convex
+角丸矩形=Rounded Rectangular
+円形ループ=
+矩形ループ=
+凸形ループ=
+角丸矩形ループ=
+色空間=Color Space
+補間経路=Interpolation Path
+短経路=Shorter
+長経路=Longer
+開始色=Start Color
+終了色=End Color
+開始色透明度=Start Color Transparency
+終了色透明度=End Color Transparency
