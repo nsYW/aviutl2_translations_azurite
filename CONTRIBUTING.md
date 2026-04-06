@@ -27,7 +27,7 @@ Follow these steps to contribute translations or fixes.
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-URL>
+git clone https://github.com/azurite581/aviutl2_translations_azurite.git
 ```
 
 Repository layout:
