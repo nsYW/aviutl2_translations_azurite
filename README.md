@@ -8,7 +8,7 @@ This is a repository that collects language files for the scripts and plugins I 
 
 ## Installation
 
-1. Download `azurite_{IETF language tag}_r{version}.zip` from Releases. ([IETF language tag](https://www.venea.net/web/culture-code))
+1. Download `azurite_{IETF language tag}_r{version}.zip` from [Releases](https://github.com/azurite581/aviutl2_translations_azurite/releases/latest). ([IETF language tag](https://www.venea.net/web/culture-code))
 2. Extract the zip file.
 3. Drag and drop `azurite.{language}.aul2` onto the AviUtl2 preview.
 4. Select your language from the settings menu.
@@ -23,7 +23,7 @@ The steps to contribute can be found in the [CONTRIBUTING](CONTRIBUTING.md) file
 
 ## License
 
-BSD 2-Clause License
+[BSD 2-Clause License](LICENSE.txt)
 
 ## Acknowledgments
 
