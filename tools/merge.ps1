@@ -1,11 +1,11 @@
 ﻿# Concatenate all *.aul2 files within the specified directory into a single file, sorted by filename in ascending order.
 #
 # Usage:
-#   .\merge.ps1 -input_dir "path\to\input" -output_dir "path\to\output" -lang "language" -author "author"
+#   .\merge.ps1 -input_dir "path\to\input" -output "path\to\output"
 #
 # Parameters:
 #   -input_dir: Directory containing the *.aul2 files to merge. Defaults to the current directory if not specified.
-#   -output: Output file path (directory+filename). If directory doesn't exist it will be created.
+#   -output: Output file path (directory + filename). If directory doesn't exist it will be created.
 #            If filename has no extension, `.aul2` will be appended.
 #
 # Usage example:
