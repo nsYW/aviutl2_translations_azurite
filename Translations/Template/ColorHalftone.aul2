@@ -1,9 +1,9 @@
-# Target: ColorHalftone (https://github.com/azurite581/AviUtl2-ColorHalftone)
-# Target Version: v2.0.0
-# Language: <Language Name>
-# Translator(s):
-#   <Name1>
-#   <Name2> (<Optional URL>)
+; Target: ColorHalftone (https://github.com/azurite581/AviUtl2-ColorHalftone)
+; Target Version: v2.0.0
+; Language: <Language Name>
+; Translator(s):
+;   <Name1>
+;   <Name2> (<Optional URL>)
 
 [ColorHalftone]
 サイズ=Size

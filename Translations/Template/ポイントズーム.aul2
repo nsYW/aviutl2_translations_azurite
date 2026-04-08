@@ -1,9 +1,9 @@
-# Target: ポイントズーム (https://github.com/azurite581/AviUtl2-PointZoom)
-# Target Version: v2.0.0
-# Language: <Language Name>
-# Translator(s):
-#   <Name1>
-#   <Name2> (<Optional URL>)
+; Target: ポイントズーム (https://github.com/azurite581/AviUtl2-PointZoom)
+; Target Version: v2.0.0
+; Language: <Language Name>
+; Translator(s):
+;   <Name1>
+;   <Name2> (<Optional URL>)
 
 [ポイントズーム]
 ポイントズーム=Point Zoom

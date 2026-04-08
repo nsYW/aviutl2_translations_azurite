@@ -1,9 +1,9 @@
-# Target: Hex-Tiling (https://github.com/azurite581/AviUtl2-Hex-Tiling)
-# Target Version: v0.1.0
-# Language: <Language Name>
-# Translator(s):
-#   <Name1>
-#   <Name2> (<Optional URL>)
+; Target: Hex-Tiling (https://github.com/azurite581/AviUtl2-Hex-Tiling)
+; Target Version: v0.1.0
+; Language: <Language Name>
+; Translator(s):
+;   <Name1>
+;   <Name2> (<Optional URL>)
 
 [Hex-Tiling]
 タイル設定=Tile Settings

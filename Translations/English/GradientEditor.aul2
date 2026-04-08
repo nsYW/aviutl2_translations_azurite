@@ -1,8 +1,8 @@
-# Target: GradientEditor (https://github.com/azurite581/AviUtl2-GradientEditor)
-# Target Version: v0.4.1
-# Language: English
-# Translator(s):
-#   azurite
+; Target: GradientEditor (https://github.com/azurite581/AviUtl2-GradientEditor)
+; Target Version: v0.4.1
+; Language: English
+; Translator(s):
+;   azurite
 
 [GradientEditor.aux2]
 グラデーションエディタ=GradientEditor

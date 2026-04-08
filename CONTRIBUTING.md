@@ -9,10 +9,10 @@
 Translation files use the `*.aul2` format. Typical structure:
 
 ```text
-# Lines starting with `#` or `;` are comments.
+; Lines starting with ';' are comments.
 
-[ColorHalftone]  # Script or plugin name (do not translate this line).
-サイズ=Size      # Each line is "JapaneseKey=TranslationValue".
+[ColorHalftone]  ; Script or plugin name (do not translate this line).
+サイズ=Size      ; Each line is "JapaneseKey=TranslationValue".
 ドットサイズ=Dot Size
 回転=Rotate
 ...

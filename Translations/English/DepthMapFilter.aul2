@@ -1,8 +1,8 @@
-# Target: DepthMapFilter (https://github.com/azurite581/AviUtl2-DepthMapFilter)
-# Target Version: v1.0.0
-# Language: English
-# Translator(s):
-#   azurite
+; Target: DepthMapFilter (https://github.com/azurite581/AviUtl2-DepthMapFilter)
+; Target Version: v1.0.0
+; Language: English
+; Translator(s):
+;   azurite
 
 [DepthMapFilter.auf2]
 カラーマップ=Color Maps

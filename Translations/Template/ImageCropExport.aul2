@@ -1,9 +1,9 @@
-# Target: ImageCropExport (https://github.com/azurite581/AviUtl2-ImageCropExport)
-# Target Version: v0.1.0
-# Language: <Language Name>
-# Translator(s):
-#   <Name1>
-#   <Name2> (<Optional URL>)
+; Target: ImageCropExport (https://github.com/azurite581/AviUtl2-ImageCropExport)
+; Target Version: v0.1.0
+; Language: <Language Name>
+; Translator(s):
+;   <Name1>
+;   <Name2> (<Optional URL>)
 
 [ImageCropExport.auo2]
 プレビュー=Preview
