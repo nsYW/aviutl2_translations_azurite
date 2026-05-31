@@ -77,6 +77,11 @@ UIのサイズ=UI Size
 選択中のプリセット "%s" を現在のグラデーションで上書きしますか?=Overwrite the selected preset "%s" with the current gradient?
 すべての履歴を削除しますか?=Delete all history?
 出力=Export
+現在の色=Current
+以前の色=Previous
+マーカーをリセット=Reset Marker
+前のマーカーを選択=Select Previous Marker
+次のマーカーを選択=Select Next Marker
 
 [MultiGradient@GradientEditor]
 強さ=Intensity
