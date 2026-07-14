@@ -82,6 +82,9 @@ UIのサイズ=UI大小
 マーカーをリセット=重置标记
 前のマーカーを選択=选择上一个标记
 次のマーカーを選択=选择下一个标记
+現在フレームにオブジェクトを作成=在当前帧创建对象
+ヘルプ=帮助
+バージョン情報=关于
 
 [MultiGradient@GradientEditor]
 MultiGradient@GradientEditor=多重渐变@GradientEditor

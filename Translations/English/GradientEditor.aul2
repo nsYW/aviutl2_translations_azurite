@@ -81,6 +81,9 @@ UIのサイズ=UI Size
 マーカーをリセット=Reset Marker
 前のマーカーを選択=Select Previous Marker
 次のマーカーを選択=Select Next Marker
+現在フレームにオブジェクトを作成=Create an object in the current frame
+ヘルプ=Help
+バージョン情報=About
 
 [MultiGradient@GradientEditor]
 強さ=Intensity
