@@ -1,5 +1,5 @@
 ; Target: 中心ずらし_A (https://github.com/azurite581/AviUtl2-PointZoom)
-; Target Version: v0.1.0
+; Target Version: v0.3.0
 ; Language: <Language Name>
 ; Translator(s):
 ;   <Name1>
@@ -11,6 +11,9 @@
 変更時にオフセットをリセット=Reset offset on change
 ボタンサイズ=Button Scale
 閉じる=Close
+情報=About
+キャンセル=Cancel
+保存=Save
 
 [中心ずらし_A]
 中心ずらし_A=Adjust Pivot A
