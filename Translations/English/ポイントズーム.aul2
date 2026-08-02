@@ -5,7 +5,7 @@
 ;   azurite
 
 [ポイントズーム]
-ポイントズーム=Point Zoom
+ポイントズーム=PointZoom
 ズーム=Zoom
 拡大率=Size
 補間なし=No Interpolation
@@ -18,4 +18,4 @@
 ミラー=Mirror
 色=Color
 透明度=Transparency
-その他=Others
+その他=Misc

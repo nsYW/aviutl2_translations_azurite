@@ -6,7 +6,7 @@
 ;   <Name2> (<Optional URL>)
 
 [中心ずらし_A.aux2]
-中心ずらし_A=Adjust Pivot A
+中心ずらし_A=AdjustPivot_A
 設定=Settings
 変更時にオフセットをリセット=Reset offset on change
 ボタンサイズ=Button Scale
@@ -16,7 +16,7 @@
 保存=Save
 
 [中心ずらし_A]
-中心ずらし_A=Adjust Pivot A
+中心ずらし_A=AdjustPivot_A
 位置=Position
 左上=Top Left
 上=Top
@@ -30,4 +30,4 @@
 オフセットX=X offset
 オフセットY=Y offset
 オブジェクトを移動=Move Object
-その他=Others
+その他=Misc
