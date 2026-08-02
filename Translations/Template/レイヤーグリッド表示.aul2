@@ -6,7 +6,7 @@
 ;   <Name2> (<Optional URL>)
 
 [レイヤーグリッド表示]
-レイヤーグリッド表示=Layer Grid View
+レイヤーグリッド表示=LayerGridView
 グリッド設定=Grid Settings
 幅=Width
 高さ=Height
@@ -16,11 +16,9 @@ X個数=X Count
 Y個数=Y Count
 結合リスト=Merge List
 結合=Merge
-
 グリッドオフセットの設定=Grid Offset Settings
-列オフセット=Col Offset
+列オフセット=Column Offset
 行オフセット=Row Offset
-
 余白設定=Gap Settings
 余白X(%)=X Gap(%)
 余白Y(%)=Y Gap(%)
@@ -28,7 +26,6 @@ Y個数=Y Count
 通常=Half Outer Margin
 内側の幅と合わせる=Full Outer Margin
 なし=No Outer Margin
-
 セル設定=Cell Settings
 セル色を上書き=Override Cell Color
 セル色=Cell Color
@@ -39,7 +36,6 @@ Y個数=Y Count
 枠幅=Border Width
 枠色=Border Color
 枠透明度=Border Transparency
-
 セル内オブジェクトの設定=Cell object settings
 スケールモード=Scale Mode
 内接最大=Contain
@@ -55,10 +51,9 @@ Y個数=Y Count
 ループ=Loop
 ミラー=Mirror
 領域外の色=Fill Color
-
 ラベル設定=Label Settings
 サイズ=Size
-フォント名=Font
+フォント=Font
 文字色=Text Color
 影・縁色=Shadow/Edge Color
 文字装飾=Text Decoration
@@ -71,11 +66,61 @@ Y個数=Y Count
 縁取り文字​（角）=Border(Sharp)
 ラベル表示=Show Label
 出力時非表示=Hide on Export
-
 レイヤー設定=Layer Settings
 読み込み=Load
 セル番号を対象レイヤーにする=Use Cell Number as Layer
 レイヤー=Layer
-
 その他=Misc
 セルサイズをログに出力する=Log Cell Size
+
+[セル設定(個別)@レイヤーグリッド表示]
+セル設定(個別)@レイヤーグリッド表示=CellSettings(Individual)@LayerGridView
+セル設定=Cell Settings
+セル番号=Cell Number
+セル設定を上書き=Override Cell Settings
+セル色=Cell Color
+セル透明度=Cell Transparency
+角丸の単位=Round Corner Unit
+角丸=Round Corner
+枠幅の単位=Border Unit
+枠幅=Border Width
+枠色=Border Color
+枠透明度=Border Transparency
+セル内オブジェクトの設定を上書き=Override Cell object settings
+セル内オブジェクトの設定=Cell object settings
+スケールモード=Scale Mode
+内接最大=Contain
+外接最小=Cover
+引き伸ばす=Stretch
+拡大率=Size
+回転=Rotate
+透明度=Transparency
+領域外=Border Type
+透明=Transparent
+塗りつぶし=Fill
+境界色=Clamp
+ループ=Loop
+ミラー=Mirror
+領域外の色=Fill Color
+ラベル設定を上書き=Override Label Settings
+ラベル設定=Label Settings
+サイズ=Size
+フォント=Font
+文字色=Text Color
+影・縁色=Shadow/Edge Color
+文字装飾=Text Decoration
+標準文字=Normal
+影付き文字=Shadow
+影付き文字​（薄）=Shadow(Light)
+縁取り文字=Border
+縁取り文字​（細）=Border(Thin)
+縁取り文字​（太）=Border(Bold)
+縁取り文字​（角）=Border(Sharp)
+ラベル表示=Show Label
+
+[グリッドオフセット設定(個別)@レイヤーグリッド表示]
+グリッドオフセット設定(個別)@レイヤーグリッド表示=GridOffsetSettings(Individual)@LayerGridView
+対象列番号=Column Number
+列オフセット=Column Offset
+対象行番号=Row Number
+行オフセット=Row Offset
